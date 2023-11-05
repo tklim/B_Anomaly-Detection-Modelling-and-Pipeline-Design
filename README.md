@@ -5,5 +5,6 @@
 4. Appendix_C_TimeSeriesKMean.pdf
 5. Appendix_D_AutoEncoder Tensorflow.ipynb - Testing on the AutoEncoder Tensorflow model This method works. Setting the threshold has yet to be fully tested or fine-tuned. 
 6. Appendix_D_AutoEncoder Tensorflow.pdf
+7. Appendix_E_AutoEncoder Tensorflow multicolumn.ipynb - Result is not good.
 
 Python packages tend to have conflicts when testing too many different packages and modules. For example, tslearn and tensorflow use different versions of packages.
